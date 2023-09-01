@@ -1,0 +1,2 @@
+# MiniVoting
+Mini Voting System
